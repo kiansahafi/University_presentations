@@ -9,5 +9,7 @@ This repository contains a collection of presentations and materials from my uni
 - [Using Analyzers to Resolve Security Problems](Using_Analyzers_to_Resolve_Security_Problems.pdf)
 - [Unit Testing Techniques](unit_testing.pdf)
 - [Virtualization Technology](virtualization_presentation.pdf)
+- [Understanding Locking Mechanisms](Locking_Mechanisms.pdf)
+- [Testing In Software Engineering](Testing%20In%20Software%20Engineering.pdf)
 
 Feel free to browse and download the presentations to learn more about these subjects. If you have any questions or feedback, please don't hesitate to reach out!
